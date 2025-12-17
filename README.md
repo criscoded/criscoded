@@ -1,6 +1,4 @@
-Software Development student at Austin Community College. US Citizen actively seeking an internship or junior role. I’m driven by a curiosity for how systems work and the process of turning abstract ideas into working code that solves real world problems.
-
-Business inqueries: crisheight@gmail.com
+Software Developer and recent BAS graduate with a strong foundation in both Full Stack Development and Data Engineering. I have practical experience building scalable applications and Big Data pipelines, as well as architecting Backend Systems.
 
 <!---
 Crisheight/Crisheight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
