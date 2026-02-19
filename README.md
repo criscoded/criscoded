@@ -1,4 +1,4 @@
-Software Developer and recent BAS graduate with a strong foundation in both Full Stack Development and Data Engineering. I have practical experience building scalable applications and Big Data pipelines, as well as architecting Backend Systems.
+Software Developer with a strong foundation in Backend Development and Data Engineering. I have practical experience building scalable Java applications and Big Data pipelines, as well as architecting random forest and diffusion models. 
 
 <!---
 Crisheight/Crisheight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
