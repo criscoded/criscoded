@@ -1,4 +1,7 @@
-I am a Software Developer with a strong foundation in Backend Development and Data Engineering. I have practical experience building scalable Java applications and Big Data pipelines, as well as architecting classical and modern Machine Learning models.
+Junior Software Engineer experienced in building full-stack applications with Java, Spring
+Boot, and modern JavaScript frameworks. Skilled in CI/CD automation, containerization,
+and data processing pipelines. Seeking a junior developer role where I can leverage my
+experience with backend systems, scalable APIs, and cloud deployment.
 
 <!---
 Crisheight/Crisheight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
