@@ -2,9 +2,10 @@ Junior Software Engineer experienced in building full-stack applications and mac
 and Python. Skilled in CI/CD, containerization, and data processing pipelines. Interested in developing
 robust backend systems, cloud technologies, and machine learning models to deliver scalable data-driven solutions.
 
-Let's connect:  
+Let's connect:
+
 Business inqueries: cristofercodes@gmail.com  
-LinkedIn: linkedin.com/in/criscoded
+Socials: [LinkedIn](linkedin.com/in/criscoded)
 
 <!---
 Crisheight/Crisheight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
