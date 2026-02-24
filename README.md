@@ -1,6 +1,4 @@
-Junior Software Engineer experienced in building full-stack applications and machine learning models with Java, JavaScript,
-and Python. Skilled in CI/CD, containerization, and data processing pipelines. Interested in developing
-robust backend systems, cloud technologies, and machine learning models to deliver scalable data-driven solutions.
+Software Engineer specializing in scalable backend systems, distributed data pipelines, and full-stack development. Strong foundation in Java, Spring Boot, and SQL, with applied knowledge of Spark-based data processing and generative AI systems. Adept in CI/CD and cloud environments, driving cross-functional collaboration to deliver reliable, production-ready solutions.
 
 Let's connect:
 
