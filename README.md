@@ -1,4 +1,6 @@
-Software Developer specializing in scalable backend systems, distributed data pipelines, and full-stack development. Strong foundation in Java, Spring Boot, and SQL, with technical proficiency in database and cloud environments. Focused on building robust, secure, and maintainable software ecosystems.
+Software Developer with professional experience building full stack web applications using React, Next.js, TypeScript, Java Spring Boot, and PostgreSQL. Interested in back end infrastructure, distributed systems, and cloud technologies.
+
+
 
 <!---
 Crisheight/Crisheight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
