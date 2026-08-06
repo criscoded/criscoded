@@ -1,4 +1,4 @@
-Software Developer with professional experience building full stack web applications using React, Next.js, TypeScript, Java Spring Boot, and PostgreSQL. Interested in back end infrastructure, distributed systems, and cloud technologies.
+Software engineer with experience building full-stack applications using React, Next.js, TypeScript, Java, Spring Boot, and PostgreSQL. Strong interest in backend infrastructure, distributed systems, cloud platforms, and AI-powered software.
 
 
 
